@@ -1,4 +1,4 @@
-# ReliableHKG
+# MetaLogic
 
 MetaLogic, a generative meta-learning framework for synergistic rule and representation learning. 
 
