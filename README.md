@@ -59,12 +59,3 @@ python D:\pycode\Logic-code\MetaLogic\graph_completion\src\eval\evaluate.py `
 ```
 The same applies to other datasets.
 
-
-# Acknowledgement
-
-Thanks to the following people for their work.
-
-Yongfang Li: Conceptualization, Methodology, Investigation, Software, Validation, Writing - original draft; 
-Chunhua Zhu: Funding Acquisition, Writing–review, Supervision; 
-Yuhong Zhang: Funding Acquisition, Writing - review & editing, Formal analysis;
-Meng Zhao: Review & editing; 
